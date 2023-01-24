@@ -104,7 +104,6 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![output](calc/static/images/calcot.png)
-
+![output]()
 ## Result:
-
+Thus a web application for standard calculator is designed
