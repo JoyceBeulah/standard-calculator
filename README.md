@@ -104,6 +104,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![output]()
+![calcot](https://user-images.githubusercontent.com/118343698/214310307-2d2244a6-1f6e-4c23-aa5f-40e30adb8f23.png)
+
 ## Result:
 Thus a web application for standard calculator is designed
